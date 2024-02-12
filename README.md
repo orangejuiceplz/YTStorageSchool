@@ -4,12 +4,18 @@ JS + HTML 5 Canvas used
 
 Create Performance Task guidelines:
 >It takes instructions from file(s)
+
 >It uses an array that holds >90,000 bits
+
 >Procedure which creates an array based on the binary number(s)
   >Procedure Name:text2Binary
+
   >Return: Binary nums
+  
   >Parameter: String 
+
 >Algorithim which controls pixel height.
+
 >Calls to create the pixels ig
 
 >Visual output
