@@ -19,3 +19,13 @@ RGB data pixels (9 values).
 
 Black data pixels (2 values)
 ![Screenshot 2024-02-12 08 22 00](https://github.com/LQ84i-1/YTStorageSchool/assets/155986030/a4d13dae-58f9-4bb5-8c10-f49fb8f0cf74)
+
+
+
+The current website that it is being hosted on, csb.app (code sandbox app) displays the data.
+
+
+Credits:
+
+YesGambling - basically the html/js code. most documentation
+LQ84-1 - some documentation, website & repository manager. 
