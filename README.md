@@ -14,7 +14,7 @@ Calls to create the pixels ig
 Visual output
 
 
-RGB data pixels (7 values).
+RGB data pixels (9 values).
 ![Screenshot 2024-02-12 07 52 10](https://github.com/LQ84i-1/YTStorageSchool/assets/155986030/6cfc9719-9b1e-4e4c-b082-04336bf67966)
 
 Black data pixels (2 values)
