@@ -16,3 +16,6 @@ Visual output
 
 RGB data pixels (7 values).
 ![Screenshot 2024-02-12 07 52 10](https://github.com/LQ84i-1/YTStorageSchool/assets/155986030/6cfc9719-9b1e-4e4c-b082-04336bf67966)
+
+Black data pixels (2 values)
+![Screenshot 2024-02-12 08 22 00](https://github.com/LQ84i-1/YTStorageSchool/assets/155986030/a4d13dae-58f9-4bb5-8c10-f49fb8f0cf74)
