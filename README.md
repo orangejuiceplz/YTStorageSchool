@@ -35,4 +35,5 @@ The current website that it is being hosted on, csb.app (code sandbox app) displ
 Credits:
 
 YesGambling - basically the html/js code. most documentation <br>
-orangejuiceplz (formely LQ84i-1) - some documentation, website & repository manager. 
+orangejuiceplz (formely LQ84i-1) - some documentation, website & repository manager. <br>
+gnclmorais (Stack Overflow) - helped w/ the Text to Binary function
