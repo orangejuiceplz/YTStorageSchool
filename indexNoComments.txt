@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<canvas id="myCanvas" width="1920" height="1080" style="border:1px solid grey"></canvas>
+<script>
+
+
+const string = "hello tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufvllo tehre my name is daniel and I am wso cool;kqljjdnh;iuowehrfp9iwehyriulebsknfhsbfiulsefhlisfhi8seuhrgfiylseho;iusehfilesurhyoi;esuhrgi;esurhi;esurhiylesru;oiesulrhylseurilsehriuleskrhiulseriu;oewhjriluewyr98weoiurliueshrsilfrhiuslefu09rjo9esru09o;seilhrlisufr"
+console.log("Starting...")
+
+const c = document.getElementById("myCanvas");
+const ctx = c.getContext("2d");
+console.log("Loading var's successful")
+
+
+function text2Binary(string) {
+    return string.split('').map(function (char) {
+        return char.charCodeAt(0).toString(2)
+    }).join(' ')
+
+}
+
+const binary = text2Binary(string).replace(/\s+/g, '')
+
+
+
+const info = Array.from(binary);
+
+
+
+for (let a = 0; a<217; a++) { 
+   
+    let startHeight = (5*a)
+
+    
+    console.log(a+1);
+    
+    
+    for (let i = 0; i<385; i++) { 
+
+      
+  if (info[0]) {     
+   if (info[0] === "1") {
+          ctx.fillStyle = `white`;
+        } else {
+          ctx.fillStyle = `black`;
+        }
+        info.shift();
+  } else {
+ctx.fillStyle = `purple`
+  }
+        let startWidth = (5*i)
+    
+      
+        ctx.beginPath();
+        ctx.rect(startWidth, startHeight, 5, 5);
+        ctx.fill();
+        
+    }
+}
+console.log("Complete")
+</script>
+</body>
+</html>
